@@ -47,3 +47,12 @@ In this lab, I deployed a Windows Server 2022 Domain Controller by installing Ac
         │ Joined to Domain         │
         └──────────────────────────┘
 ```
+
+## Screenshot
+The image below shows the successful installation of Windows Server 2022 (Desktop Experience) running in a VirtualBox virtual machine.
+
+![Windows Server Installed](images/windows-server-installed.png.png)
+The Windows 11 client was successfully joined to the Active Directory domain and authenticated using domain credentials.
+
+![Joined Domain](images/joined-domain.png)
+
