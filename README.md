@@ -30,9 +30,9 @@ This repository documents the hands-on labs I complete while building practical 
 ```text
 technical-support-engineer-labs/
 │
-├── Lab-01-Windows-Server-2022-Installation/
-├── Lab-02-Install-Active-Directory/
-├── Lab-03-Promote-to-Domain-Controller/
+Lab 01 - Install Windows Server
+Lab 02 - Install Active Directory
+Lab 03 - Promote to Domain Controller
 └── README.md
 ```
 
